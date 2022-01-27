@@ -2,7 +2,7 @@
 <br>
 <ul>
 <li> 👀 I’m interested in Web Development </li>
-<li> 🌱 I’m currently learning Web development using PHP, Html, Css, Javascript as well as latest technologies </li>
+<li> 🌱 I’m currently learning Web development using PHP, Laravel, Html, Css, Javascript as well as latest technologies </li>
 <li> 🌱 I have completed my bachelor's degree in Computer Engineering </li>
 <li> 💞️ I’m looking for new experiences </li>
 <li> 📫 You can reach me at bs700288@gmail.com </li>
